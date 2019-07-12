@@ -1,6 +1,8 @@
 # mylistflutter
+It is simple repo having multiple rows into single columns.
+Having raised Button .
+Also having alertDialog.
 
-A new Flutter project.
 
 ## Getting Started
 
@@ -14,4 +16,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# alertDialog_raiesedbuttton_columns-rows
+# alertDialog_raisedbuttton_columns-rows
